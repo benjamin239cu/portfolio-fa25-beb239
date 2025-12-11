@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Benjamin Brown - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,28 +8,28 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [beb239@cornell.edu](mailto:beb239@cornell.edu) | | | **Phone:** +914 610 1571
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I am an Eagle Scout and mechanical engineering undergraduate passionate about using the various skills I have cultivated to solve complex engineering issues impacting my community.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2027
 
-- **[High School Name]**  
+- **Woodlands High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Excel, Bluebeam, Autodesk Revit, Fusion360, CxAlloy, Open Broadcast Software, Blackmagic Design ATEM Software, Google Suite, MATLAB  
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
@@ -49,22 +49,32 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **WSP - Intern**  
+  [May, 2025] - [August, 2025]  
+  - Conducted hydrostatic tests for domestic & heating water systems, as well as medical gas/oxygen piping
+  - Issue management and close-out through CxAlloy and punch-out lists while inspecting worksites
+  - Final report creation through compilation of closeout documents and executive summary composition
+  - Project proposal creation and budget estimation through shop drawing analysis and asset counts
+  - Site inspection and issue identification and documentation through effective use of CxAlloy
+  - Data collection and building efficiency level on site through use of light meters and consistent testing
+  - Functionally tested air handling units, variable air volumes, and unit heaters including use of Building Management System and triage with sub-contractors
+  - Created functional and pre-functional forms and checklists for various equipment including Air Handling Units, Condensers, Dedicated Outdoor Air System units, Variable Air Volumes, and others
+
+- **AKF Group LLC (Member of WSP) - Intern**
+[June, 2024] - [August, 2024]
+  - Analyzed mechanical, electrical, and plumbing shop drawings and communicated found information to team on many projects, improving workflow between team members and other teams of other disciplines
+  - Functionally tested elevator sump pumps and electric unit heaters and completed functional and prefunctional checklists for air handling units, evaporators, condenser units, and various other equipment
+  - Created asset lists comprised of all equipment on a given site using mechanical/electrical shop drawings, equipment specifications, and approved submittals from clients
+  - Conducted research on various HVAC equipment and applied that knowledge in the field to assist team in project completion
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
+- Eagle Scout, Gold Palm, Scouting America, 2023   
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of National Society of Black Engineers  
 
 ---
 
