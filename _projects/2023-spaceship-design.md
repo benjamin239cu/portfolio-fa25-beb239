@@ -7,4 +7,4 @@ image: /assets/images/spaceship-design.jpg
 ---
 
 Find all information in the pdf here:
-<object data="Systems-Final-Report-Group 19.pdf" width="1000" height="1000" type='application/pdf'>
+<a href="assets/Systems-Final-Report-Group-19.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
