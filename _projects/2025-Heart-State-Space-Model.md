@@ -7,4 +7,4 @@ image: /assets/images/spaceship-design.jpg
 ---
 
 Find all information in the pdf here:
-![Report]("_projects/2025-Heart-State-Space-Model.md")
+![Report]({{ "assets/Systems-Final-Report-Group-19.pdf" | relative_url }})
