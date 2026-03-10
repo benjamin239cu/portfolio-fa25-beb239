@@ -3,7 +3,7 @@ layout: project
 title: Heat Transfer Experience
 description: Problem Set
 technologies: [Goodnotes]
-image: /assets/images/TorqueWrenchRendered.jpg
+image: /assets/images/radio-machine.jpg
 ---
 
 As a mechanical engineer who's career is leaning towards building design, specifically in the HVAC center, the Heat Transfer
